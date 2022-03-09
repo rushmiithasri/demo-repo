@@ -2,4 +2,4 @@
 
 Hi,
 
-Created new demo repo
+Created new demo repo.
